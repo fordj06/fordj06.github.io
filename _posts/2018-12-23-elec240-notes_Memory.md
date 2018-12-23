@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## ELEC240 - Memory
 
