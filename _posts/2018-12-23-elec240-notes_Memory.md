@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## ELEC240 - Memory
+## Memory
 
 #### ROM - Read Only Memory
 - Masked ROM
