@@ -1,10 +1,6 @@
 ---
 published: false
 ---
----
-published: true
----
-
 # VHDL Style Requirements Automated Testing
 
 [GitHub Repo](https://github.com/jeremiah-c-leary/vhdl-style-guide)
