@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # VHDL Style Requirements Automated Testing
 
